@@ -1,6 +1,7 @@
 {
     "name": "Plutus Starter Project",
     "image": "docker.io/inputoutput/plutus-starter-devcontainer:v1.0.9",
+	"forwardPorts": [9080], 
 
     "remoteUser": "plutus",
 
